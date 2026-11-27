@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "zaphook": {
+      "url": "https://api.zaphook.cloud/mcp",
+      "headers": {
+        "Authorization": "Bearer ${ZAPHOOK_API_KEY}"
+      }
+    }
+  }
+}

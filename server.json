@@ -1,0 +1,26 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.zaphook/zaphook-mcp-server",
+  "title": "ZapHook",
+  "description": "WhatsApp Business for AI assistants: inbox, messages, templates, channels and webhooks.",
+  "version": "1.0.0",
+  "websiteUrl": "https://zaphook.cloud",
+  "repository": {
+    "url": "https://github.com/zaphook/zaphook-mcp-server",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://api.zaphook.cloud/mcp",
+      "headers": [
+        {
+          "name": "X-API-Key",
+          "description": "Your ZapHook API key (dashboard: Settings > API Keys)",
+          "isRequired": true,
+          "isSecret": true
+        }
+      ]
+    }
+  ]
+}

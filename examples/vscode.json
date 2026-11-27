@@ -1,0 +1,19 @@
+{
+  "inputs": [
+    {
+      "type": "promptString",
+      "id": "zaphook-api-key",
+      "description": "ZapHook API key",
+      "password": true
+    }
+  ],
+  "servers": {
+    "zaphook": {
+      "type": "http",
+      "url": "https://api.zaphook.cloud/mcp",
+      "headers": {
+        "Authorization": "Bearer ${input:zaphook-api-key}"
+      }
+    }
+  }
+}
