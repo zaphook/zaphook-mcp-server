@@ -1,5 +1,7 @@
 <div align="center">
 
+[![ZapHook MCP Server](assets/cover.png)](https://zaphook.cloud)
+
 # ZapHook MCP Server
 
 **Conecte o Claude, o Cursor e outros assistentes de IA ao WhatsApp Business pelo [ZapHook](https://zaphook.cloud).**
@@ -197,4 +199,4 @@ Você é responsável por seguir a [Política de Mensagens do WhatsApp Business]
 
 A documentação e os exemplos deste repositório estão sob a [Licença MIT](LICENSE).
 
-O ZapHook é um serviço independente e não é afiliado, endossado nem patrocinado pela Meta Platforms, Inc. ou pelo WhatsApp. WhatsApp é marca registrada da Meta Platforms, Inc.
+Este servidor MCP é fornecido e operado pelo ZapHook, não pela Meta. WhatsApp e Meta são marcas da Meta Platforms, Inc.
