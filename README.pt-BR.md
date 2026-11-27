@@ -199,4 +199,4 @@ Você é responsável por seguir a [Política de Mensagens do WhatsApp Business]
 
 A documentação e os exemplos deste repositório estão sob a [Licença MIT](LICENSE).
 
-Este servidor MCP é fornecido e operado pelo ZapHook, não pela Meta. WhatsApp e Meta são marcas da Meta Platforms, Inc.
+O ZapHook é Meta Business Partner. Este servidor MCP é fornecido e operado pelo ZapHook. WhatsApp e Meta são marcas da Meta Platforms, Inc.

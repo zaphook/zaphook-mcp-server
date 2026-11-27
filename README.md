@@ -199,4 +199,4 @@ You are responsible for following the [WhatsApp Business Messaging Policy](https
 
 Documentation and examples in this repository are licensed under the [MIT License](LICENSE).
 
-This MCP server is provided and operated by ZapHook, not by Meta. WhatsApp and Meta are trademarks of Meta Platforms, Inc.
+ZapHook is a Meta Business Partner. This MCP server is provided and operated by ZapHook. WhatsApp and Meta are trademarks of Meta Platforms, Inc.
